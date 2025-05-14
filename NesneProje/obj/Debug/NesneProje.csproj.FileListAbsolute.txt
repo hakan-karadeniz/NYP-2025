@@ -1,0 +1,57 @@
+C:\Users\CASPER\Desktop\NesneProje\NesneProje\bin\Debug\NesneProje.exe.config
+C:\Users\CASPER\Desktop\NesneProje\NesneProje\bin\Debug\NesneProje.exe
+C:\Users\CASPER\Desktop\NesneProje\NesneProje\bin\Debug\NesneProje.pdb
+C:\Users\CASPER\Desktop\NesneProje\NesneProje\obj\Debug\NesneProje.csproj.AssemblyReference.cache
+C:\Users\CASPER\Desktop\NesneProje\NesneProje\obj\Debug\NesneProje.main_page.resources
+C:\Users\CASPER\Desktop\NesneProje\NesneProje\obj\Debug\NesneProje.Properties.Resources.resources
+C:\Users\CASPER\Desktop\NesneProje\NesneProje\obj\Debug\NesneProje.csproj.GenerateResource.cache
+C:\Users\CASPER\Desktop\NesneProje\NesneProje\obj\Debug\NesneProje.csproj.CoreCompileInputs.cache
+C:\Users\CASPER\Desktop\NesneProje\NesneProje\obj\Debug\NesneProje.exe
+C:\Users\CASPER\Desktop\NesneProje\NesneProje\obj\Debug\NesneProje.pdb
+C:\Users\CASPER\Desktop\NesneProje\NesneProje\obj\Debug\NesneProje.Manager_Login.resources
+C:\Users\CASPER\Desktop\NesneProje\NesneProje\obj\Debug\NesneProje.Student_Login.resources
+C:\Users\CASPER\Desktop\NesneProje\NesneProje\obj\Debug\NesneProje.Manager_Page.resources
+C:\Users\CASPER\Desktop\NesneProje\NesneProje\obj\Debug\NesneProje.User_Page.resources
+C:\Users\CASPER\Desktop\NesneProje\NesneProje\obj\Debug\NesneProje.Manager_Classes.resources
+C:\Users\CASPER\Desktop\NesneProje\NesneProje\obj\Debug\NesneProje.Manager_NewStudent.resources
+C:\Users\CASPER\Desktop\NesneProje\NesneProje\obj\Debug\NesneProje.Manager_StudentDelete.resources
+C:\Users\CASPER\Desktop\NesneProje\NesneProje\obj\Debug\NesneProje.Manager_StudentUpdate.resources
+C:\Users\CASPER\Desktop\NesneProje\NesneProje\obj\Debug\NesneProje.Student_Information.resources
+C:\Users\CASPER\Desktop\NesneProje\NesneProje\obj\Debug\NesneProje.Manager_newStdRegistration.resources
+C:\Users\CASPER\Desktop\NesneProje\NesneProje\obj\Debug\NesneProje.Manager_Classes10.resources
+C:\Users\CASPER\Desktop\NesneProje\NesneProje\obj\Debug\NesneProje.Manager_Classes11.resources
+C:\Users\CASPER\Desktop\NesneProje\NesneProje\obj\Debug\NesneProje.Manager_Classes12.resources
+C:\Users\CASPER\Desktop\NesneProje\NesneProje\obj\Debug\NesneProje.Manager_Classes9.resources
+C:\Users\CASPER\Desktop\NesneProje\NesneProje\obj\Debug\NesneProje.Student_Lessons9.resources
+C:\Users\CASPER\Desktop\NesneProje\NesneProje\obj\Debug\NesneProje.Student_Lessons10.resources
+C:\Users\CASPER\Desktop\NesneProje\NesneProje\obj\Debug\NesneProje.Student_Lessons11.resources
+C:\Users\CASPER\Desktop\NesneProje\NesneProje\obj\Debug\NesneProje.Student_Lessons12.resources
+C:\Users\CASPER\Desktop\NesneProje\NesneProje\obj\Debug\NesneProje.Manager_LoginNotes.resources
+C:\Users\CASPER\Desktop\NesneProje\NesneProje\obj\Debug\NesneProje.Manager_NotesUpdates.resources
+C:\Users\CASPER\Desktop\NesneProje - Kopya\NesneProje\bin\Debug\NesneProje.exe.config
+C:\Users\CASPER\Desktop\NesneProje - Kopya\NesneProje\bin\Debug\NesneProje.exe
+C:\Users\CASPER\Desktop\NesneProje - Kopya\NesneProje\bin\Debug\NesneProje.pdb
+C:\Users\CASPER\Desktop\NesneProje - Kopya\NesneProje\obj\Debug\NesneProje.csproj.AssemblyReference.cache
+C:\Users\CASPER\Desktop\NesneProje - Kopya\NesneProje\obj\Debug\NesneProje.main_page.resources
+C:\Users\CASPER\Desktop\NesneProje - Kopya\NesneProje\obj\Debug\NesneProje.Manager_Classes.resources
+C:\Users\CASPER\Desktop\NesneProje - Kopya\NesneProje\obj\Debug\NesneProje.Manager_Classes10.resources
+C:\Users\CASPER\Desktop\NesneProje - Kopya\NesneProje\obj\Debug\NesneProje.Manager_Classes11.resources
+C:\Users\CASPER\Desktop\NesneProje - Kopya\NesneProje\obj\Debug\NesneProje.Manager_Classes12.resources
+C:\Users\CASPER\Desktop\NesneProje - Kopya\NesneProje\obj\Debug\NesneProje.Manager_Classes9.resources
+C:\Users\CASPER\Desktop\NesneProje - Kopya\NesneProje\obj\Debug\NesneProje.Manager_Login.resources
+C:\Users\CASPER\Desktop\NesneProje - Kopya\NesneProje\obj\Debug\NesneProje.Manager_LoginNotes.resources
+C:\Users\CASPER\Desktop\NesneProje - Kopya\NesneProje\obj\Debug\NesneProje.Manager_newStdRegistration.resources
+C:\Users\CASPER\Desktop\NesneProje - Kopya\NesneProje\obj\Debug\NesneProje.Manager_NewStudent.resources
+C:\Users\CASPER\Desktop\NesneProje - Kopya\NesneProje\obj\Debug\NesneProje.Manager_NotesUpdates.resources
+C:\Users\CASPER\Desktop\NesneProje - Kopya\NesneProje\obj\Debug\NesneProje.Manager_Page.resources
+C:\Users\CASPER\Desktop\NesneProje - Kopya\NesneProje\obj\Debug\NesneProje.Manager_StudentDelete.resources
+C:\Users\CASPER\Desktop\NesneProje - Kopya\NesneProje\obj\Debug\NesneProje.Manager_StudentUpdate.resources
+C:\Users\CASPER\Desktop\NesneProje - Kopya\NesneProje\obj\Debug\NesneProje.Properties.Resources.resources
+C:\Users\CASPER\Desktop\NesneProje - Kopya\NesneProje\obj\Debug\NesneProje.Student_Information.resources
+C:\Users\CASPER\Desktop\NesneProje - Kopya\NesneProje\obj\Debug\NesneProje.Student_Lessons.resources
+C:\Users\CASPER\Desktop\NesneProje - Kopya\NesneProje\obj\Debug\NesneProje.Student_Login.resources
+C:\Users\CASPER\Desktop\NesneProje - Kopya\NesneProje\obj\Debug\NesneProje.User_Page.resources
+C:\Users\CASPER\Desktop\NesneProje - Kopya\NesneProje\obj\Debug\NesneProje.csproj.GenerateResource.cache
+C:\Users\CASPER\Desktop\NesneProje - Kopya\NesneProje\obj\Debug\NesneProje.csproj.CoreCompileInputs.cache
+C:\Users\CASPER\Desktop\NesneProje - Kopya\NesneProje\obj\Debug\NesneProje.exe
+C:\Users\CASPER\Desktop\NesneProje - Kopya\NesneProje\obj\Debug\NesneProje.pdb
